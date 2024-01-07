@@ -99,7 +99,13 @@ main{
 .section-titel{
     text-align: center;
     font-size: 30px;
-    font-weight: 700px;
+    font-weight: 15px;
+    padding: 30px 150px;
+    margin: 130px o;
+    right: 5;
+}
+.skills-container{
+    display: flex;
 }
     
     
